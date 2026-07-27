@@ -344,6 +344,7 @@ web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/re
 * [Interval](https://interval.com/) - SDK to build internal tools and scripts for your product.
 * [ngrok](https://ngrok.com/) - Generate public URLs for internal servers (behind NAT/firewall).
 * [Nylas](https://www.nylas.com/) - APIs for productivity workflows (email, calendar, contacts...) - like plaid for productivity.
+* [Nutilz](https://nutilz.com) - 23 free browser-based developer tools: regex tester, JSON formatter, calculators, unit converter, and more. No sign-up required.
 * [Plain](https://plain.com) - API-first customer service platform (support, feedback, rating widgets...).
 * [Propexo](https://www.propexo.com/) - Unified API to integrate with property management systems.
 * [SignatureAPI](https://signatureapi.com) - API-first electronic signatures.
